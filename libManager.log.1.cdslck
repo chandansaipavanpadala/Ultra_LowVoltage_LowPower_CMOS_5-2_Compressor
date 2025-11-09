@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      train
+HostName                       ece-vlsi24
+ProcessIdentifier              167678
+ProcessCreationTime_UTC        1762183079
+ProcessCreationTime_Readable   Mon Nov  3 20:47:59 2025 IST
+AppIdentifier                  /home/install/IC618/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/train/Downloads/System Level Design/libManager.log.1
+TimeEditLocked                 Mon Nov  3 20:48:03 2025 IST

@@ -1,0 +1,10 @@
+SOFTINCLUDE /home/train/cds.lib
+DEFINE ULVLP "/home/train/Downloads/System Level Design/ULVLP"
+DEFINE ULVP_sizing "/home/train/Downloads/System Level Design/ULVP_sizing"
+#Removed by ddDeleteObj: DEFINE ULVLP_Sizing "/home/train/Downloads/System Level Design/ULVLP_Sizing"
+#Removed by ddDeleteObj: DEFINE ULVLP_Sizing "/home/train/Downloads/System Level Design/ULVLP_Sizing"
+#Removed by ddDeleteObj: DEFINE ULVLP_Sizing "/home/train/Downloads/System Level Design/ULVLP_Sizing"
+#Removed by ddDeleteObj: DEFINE ULVLP_Sizing "/home/train/Downloads/System Level Design/ULVLP_Sizing"
+DEFINE ULVLP_Sizing "/home/train/Downloads/System Level Design/ULVLP_Sizing"
+DEFINE ULVLP_Sizing "/home/train/Downloads/System Level Design/ULVLP_Sizing"
+DEFINE avTech /home/install/ASSURA41/tools.lnx86/assura/etc/avtech/avTech

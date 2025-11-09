@@ -1,0 +1,3 @@
+csh
+source /home/install/cshrc~
+virtuoso

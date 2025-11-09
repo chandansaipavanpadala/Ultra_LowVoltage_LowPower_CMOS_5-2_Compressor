@@ -1,0 +1,18 @@
+Dear student,
+Please go through the paper and implement the circuit in figure 13. Your topic is "A 5-2 compressor architecture".
+Do implement it using cadence virtuoso tool. Please send the mail to other group members.
+
+power calculation
+https://www.youtube.com/watch?v=oVgis5MEhAk
+https://www.youtube.com/watch?v=PTdYTdjxwac
+
+delay calculation
+https://www.youtube.com/watch?v=6SwIVwXL4t0
+
+power delay product
+
+pvt analysis
+https://www.youtube.com/watch?v=DMTCONE_OSU
+
+layout
+https://www.youtube.com/watch?v=tK9St35jATA
