@@ -49,5 +49,5 @@ Vol. 54, No. 5, pp. 412–416, May 2007.
 ---
 
 ## 👥 Contributors
-- **Chandan Sai Pavan P.**
+- **Chandan Sai Pavan Padala**
 - **D Rushikesh**
